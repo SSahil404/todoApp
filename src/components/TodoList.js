@@ -13,6 +13,7 @@ const TodoList = () => {
 
     const submitHandler = (e) => {
         e.preventDefault();
+        if (todo === "") return;
         dispatch(addTodo(todo));
         setTodo("");
     };

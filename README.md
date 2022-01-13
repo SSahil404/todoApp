@@ -11,7 +11,7 @@
 ### Clone the repo
 
 ```
-git clone git@github.com:SSahil404/todoApp.git
+git clone git@github.com:SSazzadur/todoApp.git
 ```
 
 ### Go to the folder
